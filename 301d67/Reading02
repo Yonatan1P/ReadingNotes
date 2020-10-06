@@ -1,0 +1,26 @@
+#Pair programming
+ ##invovles 2 individuals usually
+   ###a driver: the person who is typing
+   ###a navigtor dictates what the driver will be typing
+ ##why does this help?
+  ###there are four ways to develop any language: reading, writing, speaking, and listening
+  ###pair programming utilizes all of these 
+  ###this helps students learn and understand the skills taught in Code Fellows
+  ###it makes the work flow very efficient
+    ####one person focuses on thinking, and the other person focuses on correcting, understanding, and typing
+    ####this produces higher quality code because there is a double check.
+  ###this also makes it easier to ask each other for help and stay more accountable
+  ###many different perspectives can be shared about the same topic
+  ###this also helps you develop your social skills, which is necessary for success in any industry
+  ###demonstrates teamsmenship that is required to be a part of a software development team
+  ###this is more realistic exposure to what will be seen in the real working environment
+#jQuery
+  ##helps you select elements, perform tasks, and handle events
+  ##this simplifies some methods for selecting things
+  ##it also uses less code and quickly becomes more efficient
+  ##this has compatibility with many different browser variations
+  ##it also uses feature detection to find the best way to perform a command
+  ##ul is a single JQuery element
+  ##there are get and set methods
+  ##you can cach JQuery variables into the DOM
+ 
